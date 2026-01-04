@@ -48,7 +48,7 @@ export const AboutSection = () => {
                         <a href="#contact" className="cosmic-button">
                             Contacto
                         </a>
-                        <a href="./public/Documents/Currículum Vitae sin foto minimalista blanco negro (3).pdf" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 hover:scale-105 active:scale-95 transition-all duration-300">
+                        <a href="./public/Documents/Curriculum Profesional Hombre Ejecutivo con Foto Formal Azul.pdf" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 hover:scale-105 active:scale-95 transition-all duration-300">
                             Download CV
                         </a>
                     </div>

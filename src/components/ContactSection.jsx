@@ -22,7 +22,6 @@ export const ContactSection = () => {
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
-          {/* INFO */}
           <div className="space-y-8">
             <h3 className="text-2xl font-semibold mb-6">
               Información de contacto
@@ -104,7 +103,6 @@ export const ContactSection = () => {
             </div>
           </div>
 
-          {/* FORM */}
           <div className="bg-card p-8 rounded-lg shadow-xs">
             <h3 className="text-2xl font-semibold mb-6">
               Puedes enviarme un mensaje
