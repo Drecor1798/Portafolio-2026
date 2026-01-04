@@ -12,10 +12,10 @@ export const HeroSection = () => {
                     <span className="opaciti-0 animate-fade-in"> Yo Soy</span>
                     <span className="text-primary opacity-0 animate-fade-in-delay-1"> 
                         {" "}
-                        Alexis Andres
+                        Alexis
                         </span>
                     <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">
-                        {""} Aguilar Cornejo</span>
+                        {""} Aguilar</span>
                 </h1>
                 <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
                     Desarrollador Web Full Stack y Data Science con 2 años de experiencia en logística,
