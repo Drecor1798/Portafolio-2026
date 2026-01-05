@@ -62,11 +62,7 @@ export const AboutSection = () => {
                 Contacto
               </a>
               <a
-<<<<<<< HEAD
                 href="/public/Documents/curriculum_alexis_aguilar.pdf"
-=======
-                href="/public/Documents/Curriculum Profesional Hombre Ejecutivo con Foto Formal Azul.pdf"
->>>>>>> f2071107efa6ef6c727638feac607ca689963474
                 className="px-4 py-2 sm:px-6 sm:py-2 rounded-full border border-primary text-sm sm:text-base text-primary hover:bg-primary/10 hover:scale-105 active:scale-95 transition-all duration-300"
               >
                 Download CV
