@@ -61,12 +61,12 @@ export const AboutSection = () => {
               <a href="#contact" className="cosmic-button text-sm sm:text-base">
                 Contacto
               </a>
-              <a
+              {/* <a
                 href="/public/Documents/curriculum_alexis_aguilar.pdf"
                 className="px-4 py-2 sm:px-6 sm:py-2 rounded-full border border-primary text-sm sm:text-base text-primary hover:bg-primary/10 hover:scale-105 active:scale-95 transition-all duration-300"
-              >
+              > 
                 Download CV
-              </a>
+              </a>*/}
             </div>
           </div>
 
