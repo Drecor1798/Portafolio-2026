@@ -17,7 +17,7 @@ const projects = [
         description: "Simulacion de billetera virtual con usuarios determinados con una api creada con HTML, CSS, SASS, JavaScript",
         image: "/Projects/Captura de pantalla 2026-01-03 223954.png",
         tags: ["HTML", "CSS", "SASS", "JavaScript"],
-        demoUrl: "https://tienda-de-comics-phi.vercel.app/",
+        demoUrl: "https://proyecto-pagina-billetera-digital.vercel.app/",
         githubUrl: "https://github.com/Drecor1798/proyecto_pagina_para_invertir"
     },
 
@@ -28,7 +28,7 @@ const projects = [
         description: "Un carrito de compra con una api de productos, creado con React y CSS",
         image: "/Projects/Captura de pantalla 2026-01-03 223946.png",
         tags: ["RectJS", "CSS"],
-        demoUrl: "https://validacion-html-css.netlify.app/",
+        demoUrl: "https://carrito-compra-prueba.netlify.app/",
         githubUrl: "https://github.com/Drecor1798/carrito-de-compras"
     },
 
@@ -49,7 +49,7 @@ const projects = [
         description: "Una simulacion de un formularo de registro, creado con HTML, CSS y JavaScript",
         image: "/Projects/Captura de pantalla 2026-01-03 223930.png",
         tags: ["HTML", "CSS", "JavaScript"],
-        demoUrl: "https://tienda-de-comics-phi.vercel.app/",
+        demoUrl: "https://app.netlify.com/projects/validacion-html-css/overview",
         githubUrl: "https://github.com/Drecor1798/validacion-formulario-curso-javascript"
     },
 
